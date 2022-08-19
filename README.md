@@ -1,1 +1,5 @@
-Hi
+## Welcome!
+
+In pursuing chemical engineering, Sam intends to develop novel nanomaterials for industrial energy applications and has acquired an interdisciplinary skillset that combines experimental and high-performance computational methods to design, model, characterize, and scale chemical processes. He is a 2021 Barry M. Goldwater Scholarship recipient and currently conducts research at the intersection of supercomputing and quantum chemistry to elucidate kinetic, electronic, and structural information about molecules undergoing complex organic reaction mechanisms facilitated by catalysts at the University of Florida.
+
+Sam strongly believes in building a sustainable, equitable society by being actively informed on energy technology, enterprise, and science policy. He has co-founded two organizations that operate similar to startup companies – Eizent Innovations and Apropos Energy – and has revived the UNH Energy Club. Sam focuses on rethinking engagement with the energy sector by understanding its societal impact from engineering, public policy, and economic perspectives.
